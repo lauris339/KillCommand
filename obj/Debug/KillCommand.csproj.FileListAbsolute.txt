@@ -1,0 +1,10 @@
+C:\Users\Laurynas\source\repos\KillCommand\KillCommand\bin\Debug\KillCommand.exe.config
+C:\Users\Laurynas\source\repos\KillCommand\KillCommand\bin\Debug\KillCommand.exe
+C:\Users\Laurynas\source\repos\KillCommand\KillCommand\bin\Debug\KillCommand.pdb
+C:\Users\Laurynas\source\repos\KillCommand\KillCommand\obj\Debug\KillCommand.csprojResolveAssemblyReference.cache
+C:\Users\Laurynas\source\repos\KillCommand\KillCommand\obj\Debug\KillCommand.Form1.resources
+C:\Users\Laurynas\source\repos\KillCommand\KillCommand\obj\Debug\KillCommand.Properties.Resources.resources
+C:\Users\Laurynas\source\repos\KillCommand\KillCommand\obj\Debug\KillCommand.csproj.GenerateResource.Cache
+C:\Users\Laurynas\source\repos\KillCommand\KillCommand\obj\Debug\KillCommand.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\source\repos\KillCommand\KillCommand\obj\Debug\KillCommand.exe
+C:\Users\Laurynas\source\repos\KillCommand\KillCommand\obj\Debug\KillCommand.pdb
